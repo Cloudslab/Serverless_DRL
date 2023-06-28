@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../../From Amanda/Deep-RL-Keras-master/.idea/Deep-RL-Keras-master.iml" filepath="$PROJECT_DIR$/../../../From Amanda/Deep-RL-Keras-master/.idea/Deep-RL-Keras-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../Second work/Functions/.idea/Functions.iml" filepath="$PROJECT_DIR$/../../../../Second work/Functions/.idea/Functions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Multi_agent_Serverless_Scaling.iml" filepath="$PROJECT_DIR$/.idea/Multi_agent_Serverless_Scaling.iml" />
+    </modules>
+  </component>
+</project>
